@@ -7,7 +7,7 @@
 </h1>
 <p align="center">
   <a href="">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&pause=1000&color=31BEF7D&center=true&width=500&lines=Machine+Learning+Scientist;Computer+Vision+%7C+Natural+Language+Processing;AI+Interpretability+%7C+Reinforcement+Learning;AI+Safety+%7C+Privacy+preserving+ML" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&pause=1000&color=31BEF7D&center=true&width=500&lines=Machine+Learning+Engineer;AI+Innovationist;Data Scientist;Computer+Vision+%7C+Natural+Language+Processing;" /></a>
 </p>
 
 <h5 align="center">
