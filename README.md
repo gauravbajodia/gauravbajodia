@@ -1,10 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=gauravbajodia&color=blueviolet)
 
-<h5 align="center">
+<h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&pause=1000&color=31BEF7&center=true&width=500&lines=%F0%9F%91%8B+Hey+!;+I'm+Gaurav+Bajodia" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=31BEF7&center=true&width=500&lines=%F0%9F%91%8B+Hey+!;+I'm+Gaurav+Bajodia" alt="Typing SVG" />
   </a>
-</h5>
+</h1>
+
 <p align="center">
   <a href="">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1000&pause=1000&color=31BEF7D&center=true&width=500&lines=Machine+Learning+Engineer;AI+Innovation+Enthusiast;Data Scientist;Computer+Vision;Natural+Language+Processing;" /></a>
