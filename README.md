@@ -1,10 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=gauravbajodia&color=blueviolet)
 
-<h1 align="center">
+
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size40&pause=1000&color=31BEF7&center=true&width=500&lines=%F0%9F%91%8B+Hey+!;+I'm+Gaurav+Bajodia" alt="Typing SVG" />
   </a>
-</h1>
+
 <p align="center">
   <a href="">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&pause=1000&color=31BEF7D&center=true&width=500&lines=Machine+Learning+Engineer;AI+Innovation+Enthusiast;Data Scientist;Computer+Vision;Natural+Language+Processing;" /></a>
@@ -14,7 +14,7 @@
   <code><a href="https://www.linkedin.com/in/gauravbajodia/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
   <!––<code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code> ––>
+  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code> ––>>
 </h5>
 <br>
 <p align="center">
