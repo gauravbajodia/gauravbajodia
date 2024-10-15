@@ -2,12 +2,12 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=31BEF7&center=true&width=500&lines=%F0%9F%91%8B+Hey+!;+I'm+Gaurav+Bajodia" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size40&pause=1000&color=31BEF7&center=true&width=500&lines=%F0%9F%91%8B+Hey+!;+I'm+Gaurav+Bajodia" alt="Typing SVG" />
   </a>
 </h1>
 <p align="center">
   <a href="">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1000&pause=1000&color=31BEF7D&center=true&width=500&lines=Machine+Learning+Engineer;AI+Innovation+Enthusiast;Data Scientist;Computer+Vision;Natural+Language+Processing;" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&pause=1000&color=31BEF7D&center=true&width=500&lines=Machine+Learning+Engineer;AI+Innovation+Enthusiast;Data Scientist;Computer+Vision;Natural+Language+Processing;" /></a>
 </p>
 
 <h5 align="center">
@@ -41,7 +41,7 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=zumrudu-anka&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=gauravbajodia&theme=react&border=61dafb&hide_border=true" alt="gauravbajodia" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=zumrudu-anka&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
