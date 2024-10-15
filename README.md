@@ -164,9 +164,6 @@ PyTorch, Tensorflow, JAX, Scikit-Learn, Numpy, Pandas, Langchain, LangchainJS, T
   <a href="https://aws.amazon.com/sagemaker/" target="_blank" rel="noreferrer">
     <img src="https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2018/05/eyecatch_sagemaker.png" alt="Sagemaker" width="40" height="40" />
   </a>
-  <a href="https://aws.amazon.com/bedrock/titan/" target="_blank" rel="noreferrer">
-    <img src="https://devnote.tech/wp-content/uploads/2022/07/sagemaker-icon.png" alt="bedrock" width="40" height="40" />
-  </a>
   <a href="https://aws.amazon.com/lambda/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/1920px-Amazon_Lambda_architecture_logo.svg.png" alt="Lambda" width="40" height="40" />
   </a>
@@ -201,9 +198,6 @@ PyTorch, Tensorflow, JAX, Scikit-Learn, Numpy, Pandas, Langchain, LangchainJS, T
   </a>
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" />
-  </a>
-  <a href="https://lambdalabs.com/service/gpu-cloud" target="_blank" rel="noreferrer">
-    <img src="https://qwilr.com/wp-content/uploads/2021/02/lambda-logo-2-1-768x768.jpg" alt="Lambda Cloud" width="40" height="40" />
   </a>
   <a href="https://heroku.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" />
@@ -325,9 +319,6 @@ HuggingFace, OpenAI, Anthropic, Cohere, Algolia, AI21, GraphQL, Airtable, Zapier
   <a href="https://cohere.com/" target="_blank" rel="noreferrer">
     <img src="https://logos-world.net/wp-content/uploads/2023/05/Cohere-Logo.png" alt="Cohere" width="40" height="40" />
   </a>
-  <a href="https://www.algolia.com/" target="_blank" rel="noreferrer">
-    <img src="https://logosandtypes.com/wp-content/uploads/2020/07/algolia.svg" alt="Algolia" width="40" height="40" />
-  </a>
   <a href="https://docs.ai21.com/" target="_blank" rel="noreferrer">
     <img src="https://www.comeet.co/pub/ai21/E6.001/logo?size=medium&last-modified=1650378146" alt="AI21" width="40" height="40" />
   </a>
@@ -357,23 +348,3 @@ HuggingFace, OpenAI, Anthropic, Cohere, Algolia, AI21, GraphQL, Airtable, Zapier
   </a>
 </p>
 <hr>
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/Algorithms" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-
-<h4 align="center">
-  <a href="https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
