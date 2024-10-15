@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=gauravbajodia&color=blueviolet)
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=31BEF7&width=435&lines=%F0%9F%91%8B+Hey%2C+I'm+Gaurav+Bajodia;I+Am+Gaurav+Bajodia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=31BEF7&center=true&width=435&lines=%F0%9F%91%8B+Hey+!;+I'm+Gaurav+Bajodia" alt="Typing SVG" />
 </a>
 <p align="center">
   <a href="">
