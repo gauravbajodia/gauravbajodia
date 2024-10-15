@@ -1,10 +1,14 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+![](https://komarev.com/ghpvc/?username=gauravbajodia&color=blueviolet)
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Gaurav+Bajodia....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋; This+is+Gaurav+Bajodia....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
+<p align="center">
+  <a href="">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&pause=1000&color=FF923D&center=true&width=835&lines=Machine+Learning+Scientist;Computer+Vision+%7C+Natural+Language+Processing;AI+Interpretability+%7C+Reinforcement+Learning;AI+Safety+%7C+Privacy+preserving+ML" /></a>
+</p>
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
@@ -116,17 +120,7 @@
 </h4>
 
 
-<p align="center">
-  <a href="https://github.com/Pragalbhmandaokar">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=100&pause=800&color=923DFF&center=true&width=635&lines=Pragalbh+Mandaokar" alt="Pragalbh Mandaokar" /></a>
-</p>
 
-<p align="center">
-  <a href="">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&pause=1000&color=FF923D&center=true&width=835&lines=Machine+Learning+Scientist;Computer+Vision+%7C+Natural+Language+Processing;AI+Interpretability+%7C+Reinforcement+Learning;AI+Safety+%7C+Privacy+preserving+ML" /></a>
-</p>
-
-![](https://komarev.com/ghpvc/?username=Pragalbhmandaokar&color=blueviolet)
 
 ### Hi there 👋
 
